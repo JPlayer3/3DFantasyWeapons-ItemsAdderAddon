@@ -1,5 +1,7 @@
 # 3DFantasyWeapons - ItemsAdder Addon
 <br>
+!(https://i.gyazo.com/f633ee7b0d5e9b08cafa2342cbaa0806.png)
+<br>
 Add the two textures together to the ItemsAdder.<br>
 All weapons have the same performance as a diamond sword.<br>
 All staffs have the same performance as a crossbow.<br>
