@@ -6,6 +6,11 @@ Add the two textures together to the ItemsAdder.<br>
 All weapons have the same performance as a diamond sword.<br>
 All staffs have the same performance as a crossbow.<br>
 We do not explain items or adjust performance at all.<br>
+I'm adjusting the model for use on my server.<br>
+Please note that it has been slightly changed from the original.<br>
+<br>
+Please let me know if you have any suggestions for improvement.<br>
+Either Spigot or GitHub is fine.<br>
 <br>
 Textures Pack:<br>
 3D Fantasy Weapons CIT<br>
