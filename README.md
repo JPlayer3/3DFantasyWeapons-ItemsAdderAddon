@@ -1,6 +1,6 @@
 # 3DFantasyWeapons - ItemsAdder Addon
 <br>
-<img src="https://i.gyazo.com/f633ee7b0d5e9b08cafa2342cbaa0806.png"
+<img src="https://i.gyazo.com/f633ee7b0d5e9b08cafa2342cbaa0806.png" width="50%" height="50%"> 
 <br>
 Add the two textures together to the ItemsAdder.<br>
 All weapons have the same performance as a diamond sword.<br>
