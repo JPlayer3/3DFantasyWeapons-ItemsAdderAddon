@@ -2,8 +2,8 @@ info:
   namespace: 3dfantasyweaponscit
   dictionary-lang: "ja"
 dictionary:
-  display-name-3dfantasyweaponscit: FantasyWeapons - nongfu
-  display-name-3dmysticstavescit: MysticStaves - nongfu
+  display-name-3dfantasyweaponscit: 夢幻の武器 - nongfu
+  display-name-3dmysticstavescit: 神秘的な杖 - nongfu
   display-name-azure_greataxe: 紺碧の大斧
   display-name-skeleton_axe: 骸骨の大斧
   display-name-treacherous_axe: 凶斧
